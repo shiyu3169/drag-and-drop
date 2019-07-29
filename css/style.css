@@ -23,4 +23,9 @@ body {
 
 .hold {
   border: solid #ccc 4px;
+  border-style: dashed;
+}
+
+.invisible {
+  display: none;
 }
